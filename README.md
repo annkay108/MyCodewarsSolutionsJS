@@ -1,2 +1,3 @@
 # MyCodewarsSolutionsJS
 
+Attempting few codewar questions...
